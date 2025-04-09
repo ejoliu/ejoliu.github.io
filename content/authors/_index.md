@@ -1,9 +1,8 @@
 ---
-# To publish author profile pages, remove all the `_build` and `cascade` settings below.
-_build:
-  render: never
-cascade:
-  _build:
-    render: never
-    list: always
+# Display name
+ title: Yijiang Liu 刘亦江
+ 
+ # Full name
+ first name: Yijiang
+ last name: Liu
 ---
