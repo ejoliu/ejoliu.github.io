@@ -53,7 +53,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/a-heart-is-shown-on-a-computer-screen-KgLtFCgfC28)'
-  focal_point: "Center"
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
