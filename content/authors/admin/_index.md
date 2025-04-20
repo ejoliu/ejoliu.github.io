@@ -30,11 +30,13 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: envelope
     url: 'mailto:liuy0292@e.ntu.edu.sg'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/ejoliu
+  - icon: users
+    url: https://www.shen-lab.org/
 
 interests:
   - Badminton
@@ -147,4 +149,4 @@ awards:
 
 ## About Me
 
-Yijiang is currently a PhD student at NTU, his research interests include bioinformatics, data science and biostatistics.
+I’m currently a PhD student at NTU School of Chemistry, Chemical Engineering and Biotechnology (CCEB). My research focuses on bioinformatics, with a particular emphasis on the integrative analysis of multi-omics data to investigate health-related issues. In my free time, I like playing badminton and travelling.
