@@ -12,10 +12,12 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2025-04-15T00:00:00Z"
-doi: "https://doi.org/10.53941/hm.2025.100014"
+doi: ""
+
 
 # The last time to revise the content
-lastmod: "2025-04-20T00:00:00Z"
+lastmod: "2025-04-21T00:00:00Z"
+
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-04-20T00:00:00Z"
 
@@ -49,6 +51,10 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
+links:
+  - name: "LINK"
+    url: "https://www.sciltp.com/journals/hm/article/view/669"
+    
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
