@@ -1,28 +1,21 @@
 ---
-title: Example Talk
+title: Research Bite Presentation (3rd Jul 2025)
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Presentation on Tidymass Project
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: LKC Medicine, EMB
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: A sharing on Tidymass Project - an advanced untargeted LC-MS metabolomics data analysis workflow.
+abstract: Yijiang presented TidyMass2, an enhanced computational framework for untargeted LC-MS metabolomics that improves metabolite annotation and biological interpretation. TidyMass2 introduces a unified chemical ID conversion system, an interactive web interface (TidyMassShiny), and a novel database, MetOriginDB, for tracing metabolite origins across human, microbial, and environmental sources. It also features a new module-based analysis strategy that identifies biologically relevant patterns without relying solely on MS2 data. Applied to a pregnancy urine dataset, TidyMass2 uncovered dynamic metabolic changes and environmental exposures, demonstrating its potential to expand insights into complex biological systems..
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2025-07-03T12:00:00Z'
+date_end: '2025-07-03T13:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-07-14T00:00:00Z'
 
 authors:
   - admin
@@ -33,18 +26,8 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-#links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
-url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -66,10 +49,3 @@ projects:
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
