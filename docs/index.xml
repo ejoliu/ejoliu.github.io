@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>TidyMass2: Advancing LC-MS Untargeted Metabolomics Through Metabolite Origin Inference and Metabolic Feature-based Functional Module Analysis</title>
+      <link>https://example.com/publication/tidymass2/</link>
+      <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/tidymass2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Research Bite Presentation (3rd Jul 2025)</title>
       <link>https://example.com/event/example/</link>
       <pubDate>Thu, 03 Jul 2025 12:00:00 +0000</pubDate>
@@ -306,7 +314,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
 
 
-&lt;div id=&#34;chart-845296371&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-239186457&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -324,7 +332,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-845296371&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-239186457&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

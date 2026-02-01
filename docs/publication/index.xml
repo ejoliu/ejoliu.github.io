@@ -5,12 +5,20 @@
     <link>https://example.com/publication/</link>
       <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu_557f799f97e4e28d.png</url>
       <title>Publications</title>
       <link>https://example.com/publication/</link>
     </image>
+    
+    <item>
+      <title>TidyMass2: Advancing LC-MS Untargeted Metabolomics Through Metabolite Origin Inference and Metabolic Feature-based Functional Module Analysis</title>
+      <link>https://example.com/publication/tidymass2/</link>
+      <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/tidymass2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Application of LLMs/Transformer-Based Models for Metabolite Annotation in Metabolomics</title>
